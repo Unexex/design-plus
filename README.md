@@ -4,7 +4,7 @@ Design+ is a modern UI library for [Roblox](https://create.roblox.com/)
 
 Easily create UI with automattic backgrounds, colors, shadows, icons, text, gradients and more.. to save thousands of lines of code.
 
-Design+ is formatted l
+Design+ is formatted like SwiftUI, with every new element you can .gradient() or .text() even .icon()!
 
 <a href="https://unexex.github.io/design-plus/">
 Visit the Design+ documentation to learn more <img valign="middle" src="./gh-assets/icon-link-extern.svg" alt="(external link)" title="(external link)">
