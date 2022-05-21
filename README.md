@@ -6,12 +6,8 @@ Easily create UI with automattic backgrounds, colors, shadows, icons, text, grad
 
 Design+ is formatted l
 
-<a href="https://unexex.github.io/design-plus/docs">
+<a href="https://unexex.github.io/design-plus/">
 Visit the Design+ documentation to learn more <img valign="middle" src="./gh-assets/icon-link-extern.svg" alt="(external link)" title="(external link)">
 </a>
 
------
 
-## Contributing
-
-Please read [our contribution policies](/CONTRIBUTING.md) before opening an issue or pull request.
