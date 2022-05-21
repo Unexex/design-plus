@@ -1,4 +1,4 @@
-<img align="left" src="./gh-assets/logo-dark-theme.svg#gh-dark-mode-only" alt="Fusion"><img align="left" src="./gh-assets/logo-light-theme.svg#gh-light-mode-only" alt="Fusion"><a href="https://unexex.github.io/design-[;is/"><img align="right" src="./gh-assets/link-docs.svg" alt="Docs"></a><a href="https://github.com/unexex/design-plus/releases"><img align="right" src="./gh-assets/link-download.svg" alt="Download"></a><img src="./gh-assets/clearfloat.svg">
+<img align="left" src="./gh-assets/IMG_0111.jpeg#gh-dark-mode-only" alt="Fusion"><img align="left" src="./gh-assets/IMG_0111.jpeg#gh-light-mode-only" alt="Fusion"><a href="https://unexex.github.io/design-[;is/"><img align="right" src="./gh-assets/link-docs.svg" alt="Docs"></a><a href="https://github.com/unexex/design-plus/releases"><img align="right" src="./gh-assets/link-download.svg" alt="Download"></a><img src="./gh-assets/clearfloat.svg">
 
 Design+ is a modern UI library for [Roblox](https://developer.roblox.com/)
 
